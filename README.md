@@ -1,6 +1,8 @@
 # Werewolf-Helper
 This is an App Lab utility designed to automate the role distribution and setup for the party game Werewolf. It eliminates the need for physical cards by allowing players to pass a single device around to see their secret identities.
 
+Link to Code.org: https://studio.code.org/projects/applab/zJqhmbhrSBHZrQrWu250A58wPx8a5jhP4gJpA61-kaI
+
 # Features
 * Multiple Game Modes
 * Custom Character Support
