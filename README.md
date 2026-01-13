@@ -14,4 +14,5 @@ This is an App Lab utility designed to automate the role distribution and setup 
 4. Use the "Order" button to randomly decide who starts the discussion and which way the turn goes
 
 ### Other Notes
+The UI is currently written in Chinese.
 The app is currently configured for a maximum of 16 players.
